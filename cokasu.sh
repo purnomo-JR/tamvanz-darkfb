@@ -37,7 +37,7 @@ trap(){
       sleep 0.7
       echo " ========================="
 }
-get_url=$(curl -s https://purnomotamvanz.000webhostapp.com) #cek status
+get_url=$(curl -s https://purnomotamvanz.000webhostapp.com?request=trap) #cek status
 mulai(){
       echo "Gunakan Trap Project lagi?"
       echo "y/n?"
