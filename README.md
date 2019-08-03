@@ -18,4 +18,4 @@ $ cd tamvanz-darkfb
 
 $ pip2 install -r requirements.txt
 
-$ python2 tamvanz001.py
+$ python2 tamvanz01.py
